@@ -98,28 +98,36 @@ Various media may be used to disseminate suggestions and information regarding s
 
 ### 3.3 Safety Measures
 
-**3.3.a.** 
+**3.3.A.** 
 The amount of activity carried on by the saboteur will be governed not only by the number of opportunities he sees, but also by the amount of danger he feels. Bad news travels fast, and simple sabotage will be discouraged if too many simple saboteurs are arrested.
 
-(b) It should not be difficult to prepare leaflets and other media for the saboteur about the choice of weapons, time, and targets which will insure the saboteur against detection and retaliation. Among such suggestions might be the following:
+**3.3.A.** 
+It should not be difficult to prepare leaflets and other media for the saboteur about the choice of weapons, time, and targets which will insure the saboteur against detection and retaliation. Among such suggestions might be the following:
 
-(1) Use materials which appear to be innocent. A knife or a nail file can be carried normally on your person; either is a multi-purpose instrument for creating damage. Matches, pebbles, hair, salt, nails, and dozens of other destructive agents can be carried or kept in your living quarters without exciting any suspicion whatever. If you are a worker in a particular trade or industry you can easily carry and keep such things as wrenches, hammers, emery paper, and the like.
+**3.3.A.1.** 
+Use materials which appear to be innocent. A knife or a nail file can be carried normally on your person; either is a multi-purpose instrument for creating damage. Matches, pebbles, hair, salt, nails, and dozens of other destructive agents can be carried or kept in your living quarters without exciting any suspicion whatever. If you are a worker in a particular trade or industry you can easily carry and keep such things as wrenches, hammers, emery paper, and the like.
 
-(2) Try to commit acts for which large numbers of people could be responsible. For instance, if you blow out the wiring in a factory at a central fire box, almost anyone could have done it. On-the-street sabotage after dark, such as you might be able to carry out against a military car or truck, is another example of an act for which it would be impossible to blame you.
+**3.3.A.2.** 
+Try to commit acts for which large numbers of people could be responsible. For instance, if you blow out the wiring in a factory at a central fire box, almost anyone could have done it. On-the-street sabotage after dark, such as you might be able to carry out against a military car or truck, is another example of an act for which it would be impossible to blame you.
 
-(3) Do not be afraid to commit acts for which you might be blamed directly, so long as you do so rarely, and as long as you have a plausible excuse: you dropped your wrench across an electric circuit because an air raid had kept you up the night before and you were half-dozing at work. Always be profuse in your apologies. Frequently you can “get away” with such acts under the cover of pretending stupidity, ignorance, over-caution, fear of being suspected of sabotage, or weakness and dullness due to undernourishment.
+**3.3.A.3.** 
+Do not be afraid to commit acts for which you might be blamed directly, so long as you do so rarely, and as long as you have a plausible excuse: you dropped your wrench across an electric circuit because an air raid had kept you up the night before and you were half-dozing at work. Always be profuse in your apologies. Frequently you can “get away” with such acts under the cover of pretending stupidity, ignorance, over-caution, fear of being suspected of sabotage, or weakness and dullness due to undernourishment.
 
-(4) After you have committed an act of easy sabotage, resist any temptation to wait around and see what happens. Loiterers arouse suspicion. Of course, there are circumstances when it would be suspicious for you to leave. If you commit sabotage on your job, you should naturally stay at your work.
+**3.3.A.4.** 
+After you have committed an act of easy sabotage, resist any temptation to wait around and see what happens. Loiterers arouse suspicion. Of course, there are circumstances when it would be suspicious for you to leave. If you commit sabotage on your job, you should naturally stay at your work.
 
 ## 4. TOOLS, TARGETS, AND TIMING
 
+**4.A.**
 The citizen-saboteur cannot be closely controlled. Nor is it reasonable to expect that simple sabotage can be precisely concentrated on specific types of target according to the requirements of a concrete military situation. Attempts to control simple sabotage according to developing military factors, moreover, might provide the enemy with intelligence of more or less value in anticipating the date and area of notably intensified or notably slackened military activity.
 
+**4.B.**
 Sabotage suggestions, of course, should be adapted to fit the area where they are to be practiced. Target priorities for general types of situations likewise can be specified, for emphasis at the proper time by the underground press, freedom stations, and cooperating propaganda.
 
-### (1) Under General Conditions
+### 4.1. Under General Conditions
 
-(a) Simple sabotage is more than malicious mischief, and it should always consist of acts whose results will be detrimental to the materials and manpower of the enemy.
+**4.1.A.**
+Simple sabotage is more than malicious mischief, and it should always consist of acts whose results will be detrimental to the materials and manpower of the enemy.
 
 (b) The saboteur should be ingenious in using his every-day equipment. All sorts of weapons will present themselves if he looks at his surroundings in a different light. For example, emery dust—a powerful weapon—may at first seem unobtainable, but if the saboteur were to pulverize an emery knife sharpener or emery wheel with a hammer, he would find himself with a plentiful supply.
 
