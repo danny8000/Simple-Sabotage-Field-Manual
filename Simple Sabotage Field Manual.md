@@ -38,62 +38,62 @@ Director
 
 ## 1. INTRODUCTION
 
-**1.a.**
+**1.A.**
 The purpose of this paper is to characterize simple sabotage, to outline its possible effects, and to present suggestions for inciting and executing it.
 
-**1.b.**
+**1.B.**
 Sabotage varies from highly technical _coup de main_ acts that require detailed planning and the use of specially-trained operatives, to innumerable simple acts which the ordinary individual citizen-saboteur can perform. This paper is primarily concerned with the latter type. Simple sabotage does not require specially prepared tools or equipment; it is executed by an ordinary citizen who may or may not act individually and without the necessity for active connection with an organized group; and it is carried out in such a way as to involve a minimum danger of injury, detection, and reprisal.
 
-**1.c.**
+**1.C.**
 Where destruction is involved, the weapons of the citizen-saboteur are salt, nails, candles, pebbles, thread, or any other materials he might normally be expected to possess as a householder or as a worker in his particular occupation. His arsenal is the kitchen shelf, the trash pile, his own usual kit of tools and supplies. The targets of his sabotage are usually objects to which he has normal and inconspicuous access in everyday life.
 
-**1.d.**
+**1.D.**
 A second type of simple sabotage requires no destructive tools whatsoever and produces physical damage, if any, by highly indirect means. It is based on universal opportunities to make faulty decisions, to adopt a noncooperative attitude, and to induce others to follow suit. Making a faulty decision may be simply a matter of placing tools in one spot instead of another. A non-cooperative attitude may involve nothing more than creating an unpleasant situation among one’s fellow workers, engaging in bickerings, or displaying surliness and stupidity.
 
-**1.e.**
+**1.E.**
 This type of activity, sometimes referred to as the “human element,” is frequently responsible for accidents, delays, and general obstruction even under normal conditions. The potential saboteur should discover what types of faulty decisions and the operations are _normally_ found in this kind of work and should then devise his sabotage so as to enlarge that “margin for error.”
 
 ## 2. POSSIBLE EFFECTS
 
-**2.a.**
+**2.A.**
 Acts of simple sabotage are occurring throughout Europe. An effort should be made to add to their efficiency, lessen their detectability, and increase their number. Acts of simple sabotage, multiplied by thousands of citizen-saboteurs, can be an effective weapon against the enemy. Slashing tires, draining fuel tanks, starting fires, starting arguments, acting stupidly, short-circuiting electric systems, abrading machine parts will waste materials, manpower, and time. Occurring on a wide scale, simple sabotage will be a constant and tangible drag on the war effort of the enemy.
 
-**2.b.**
+**2.B.**
 Simple sabotage may also have secondary results of more or less value. Widespread practice of simple sabotage will harass and demoralize enemy administrators and police. Further, success may embolden the citizen-saboteur eventually to find colleagues who can assist him in sabotage of greater dimensions. Finally, the very practice of simple sabotage by natives in enemy or occupied territory may make these individuals identify themselves actively with the United Nations war effort, and encourage them to assist openly in periods of Allied invasion and occupation.
 
 ## 3. MOTIVATING THE SABOTEUR
 
-**3.a.**
+**3.A.**
 To incite the citizen to the active practice of simple sabotage and to keep him practicing that sabotage over sustained periods is a special problem.
 
-**3.b.**
+**3.B.**
 Simple sabotage is often an act which the citizen performs according to his own initiative and inclination. Acts of destruction do not bring him any personal gain and may be completely foreign to his habitually conservationist attitude toward materials and tools. Purposeful stupidity is contrary to human nature. He frequently needs pressure, stimulation or assurance, and information and suggestions regarding feasible methods of simple sabotage.
 
 ### 3.1. Personal Motives
 
-**3.1.a.**
+**3.1.A.**
 The ordinary citizen very probably has no immediate personal motive for committing simple sabotage. Instead, he must be made to anticipate indirect personal gain, such as might come with enemy evacuation or destruction of the ruling government group. Gains should be stated as specifically as possible for the area addressed: simple sabotage will hasten the day when Commissioner X and his deputies Y and Z will be thrown out, when particularly obnoxious decrees and restrictions will be abolished, when food will arrive, and so on. Abstract verbalizations about personal liberty, freedom of the press, and so on, will not be convincing in most parts of the world. In many areas they will not even be comprehensible.
 
-**3.1.b.**
+**3.1.B.**
 Since the effect of his own acts is limited, the saboteur may become discouraged unless he feels that he is a member of a large, though unseen, group of saboteurs operating against the enemy or the government of his own country and elsewhere. This can be conveyed indirectly: suggestions which he reads and hears can include observations that a particular technique has been successful in this or that district. Even if the technique is not applicable to his surroundings, another’s success will encourage him to attempt similar acts. It also can be conveyed directly: statements praising the effectiveness of simple sabotage can be contrived which will be published by white radio, freedom stations, and the subversive press. Estimates of the proportion of the population engaged in sabotage can be disseminated. Instances of successful sabotage already are being broadcast by white radio and freedom stations, and this should be continued and expanded where compatible with security.
 
-**3.1.c.**
-More important than (3.1.a.) or (3.1.b.) would be to create a situation in which the citizen-saboteur acquires a sense of responsibility and begins to educate others in simple sabotage.
+**3.1.C.**
+More important than (3.1.A.) or (3.1.B.) would be to create a situation in which the citizen-saboteur acquires a sense of responsibility and begins to educate others in simple sabotage.
 
 ### 3.2. Encouraging Destructiveness
 
 It should be pointed out to the saboteur where the circumstances are suitable, that he is acting in self-defense against the enemy, or retaliating against the enemy for other acts of destruction. A reasonable amount of humor in the presentation of suggestions for simple sabotage will relax tensions of fear.
 
-**3.2.a.**
+**3.2.A.**
 The saboteur may have to reverse his thinking, and he should be told this in so many words. Where he formerly thought of keeping his tools sharp, he should now let them grow dull; surfaces that formerly were lubricated now should be sanded; normally diligent, he should now be lazy and careless; and so on. Once he is encouraged to think backwards about himself and the objects of his everyday life, the saboteur will see many opportunities in his immediate environment which cannot possibly be seen from a distance. A state of mind should be encouraged that anything can be sabotaged.
 
-**3.2.b.**
+**3.2.B.**
 Among the potential citizen-saboteurs who are to engage in physical destruction, two extreme types may be distinguished. On the one hand, there is the man who is not technically trained and employed. This man needs specific suggestions as to what he can and should destroy as well as details regarding the tools by means of which destruction is accomplished.
 
-**3.2.c.**
+**3.2.C.**
 At the other extreme is the man who is a technician, such as a lathe operator or an automobile mechanic. Presumably this man would be able to devise methods of simple sabotage which would be appropriate to his own facilities. However, this man needs to be stimulated to re-orient his thinking in the direction of destruction. Specific examples, which need not be from his own field, should accomplish this.
 
-**3.2.d.**
+**3.2.D.**
 Various media may be used to disseminate suggestions and information regarding simple sabotage. Among the media which may be used, as the immediate situation dictates, are: freedom stations or radio false (unreadable) broadcasts or leaflets may be directed toward specific geographic or occupational areas, or they may be general in scope. Finally, agents may be trained in the art of simple sabotage, in anticipation of a time when they may be able to communicate this information directly.
 
 ### 3.3 Safety Measures
@@ -129,99 +129,130 @@ Sabotage suggestions, of course, should be adapted to fit the area where they ar
 **4.1.A.**
 Simple sabotage is more than malicious mischief, and it should always consist of acts whose results will be detrimental to the materials and manpower of the enemy.
 
-(b) The saboteur should be ingenious in using his every-day equipment. All sorts of weapons will present themselves if he looks at his surroundings in a different light. For example, emery dust—a powerful weapon—may at first seem unobtainable, but if the saboteur were to pulverize an emery knife sharpener or emery wheel with a hammer, he would find himself with a plentiful supply.
+**4.1.B.**
+The saboteur should be ingenious in using his every-day equipment. All sorts of weapons will present themselves if he looks at his surroundings in a different light. For example, emery dust—a powerful weapon—may at first seem unobtainable, but if the saboteur were to pulverize an emery knife sharpener or emery wheel with a hammer, he would find himself with a plentiful supply.
 
-(c) The saboteur should never attack targets beyond his capacity or the capacity of his instruments. An inexperienced person should not, for example, attempt to use explosives, but should confine himself to the use of matches or other familiar weapons.
+**4.1.C.**
+The saboteur should never attack targets beyond his capacity or the capacity of his instruments. An inexperienced person should not, for example, attempt to use explosives, but should confine himself to the use of matches or other familiar weapons.
 
-(d) The saboteur should try to damage only objects and materials known to be in use by the enemy or to be destined for early use by the enemy. It will be safe for him to assume that almost any product of heavy industry is destined for enemy use, and that the most efficient fuels and lubricants also are destined for enemy use. Without special knowledge, however, it would be undesirable for him to attempt destruction of food crops or food products.
+**4.1.D.**
+The saboteur should try to damage only objects and materials known to be in use by the enemy or to be destined for early use by the enemy. It will be safe for him to assume that almost any product of heavy industry is destined for enemy use, and that the most efficient fuels and lubricants also are destined for enemy use. Without special knowledge, however, it would be undesirable for him to attempt destruction of food crops or food products.
 
-(e) Although the citizen-saboteur may rarely have access to military objects, he should give these preference above all others.
+**4.1.E.**
+Although the citizen-saboteur may rarely have access to military objects, he should give these preference above all others.
 
-### (2) Prior to a Military Offensive
+### 4.2 Prior to a Military Offensive
 
 During periods which are quiescent in a military sense, such emphasis as can be given to simple sabotage might well center on industrial production, to lessen the flow of materials and equipment to the enemy. Slashing a rubber tire on an Army truck may be an act of value; spoiling a batch of rubber in the production plant is an act of still more value.
 
-(3) _During a Military Offensive_
+### 4.3 During a Military Offensive
 
-(a) Most significant sabotage for an area which is, or is soon destined to be, a theater of combat operations is that whose effects will be direct and immediate. Even if the effects are relatively minor and localized, this type of sabotage is to be preferred to activities whose effects, while widespread, are indirect and delayed.
+**4.3.A.**
+Most significant sabotage for an area which is, or is soon destined to be, a theater of combat operations is that whose effects will be direct and immediate. Even if the effects are relatively minor and localized, this type of sabotage is to be preferred to activities whose effects, while widespread, are indirect and delayed.
 
-(1) The saboteur should be encouraged to attack transportation facilities of all kinds.
+**4.3.A.1.**
+The saboteur should be encouraged to attack transportation facilities of all kinds. Among such facilities are roads, railroads, auto mobiles, trucks, motor-cycles, bicycles, trains, and trams.
 
-Among such facilities are roads, railroads, auto mobiles, trucks, motor-cycles, bicycles, trains, and trams.
+**4.3.A.2.**
+Any communications facilities which can be used by the authorities to transmit instructions or morale material should be the objects of simple sabotage. These include telephone, telegraph and power systems, radio, newspapers, placards, and public notices.
 
-(2) Any communications facilities which can be used by the authorities to transmit instructions or morale material should be the objects of simple sabotage. These include telephone, telegraph and power systems, radio, newspapers, placards, and public notices.
-
-(3) Critical materials, valuable in themselves or necessary to the efficient functioning of transportation and communication, also should become targets for the citizen-saboteur. These may include oil, gasoline, tires, food, and water.
+**4.3.A.3.**
+Critical materials, valuable in themselves or necessary to the efficient functioning of transportation and communication, also should become targets for the citizen-saboteur. These may include oil, gasoline, tires, food, and water.
 
 ## 5. SPECIFIC SUGGESTIONS FOR SIMPLE SABOTAGE
 
+**5.A.**
 It will not be possible to evaluate the desirability of simple sabotage in an area without having in mind rather specifically what individual acts and results are embraced by the definition of simple sabotage.
 
+**5.B.**
 A listing of specific acts follows, classified according to types of target. This list is presented as a growing rather than a complete outline of the methods of simple sabotage. As new techniques are developed, or new fields explored, it will be elaborated and expanded.
 
-### (1) Buildings
+### 5.B.1. Buildings
 
 Warehouses, barracks, offices, hotels, and factory buildings are outstanding targets for simple sabotage. They are extremely susceptible to damage, especially by fire; they offer opportunities to such untrained people as janitors, charwomen, and casual visitors; and, when damaged, they present a relatively large handicap to the enemy.
 
-(a) **Fires** can be started wherever there is an accumulation of inflammable material. Warehouses are obviously the most promising targets but incendiary sabotage need not be confined to them alone.
+**5.B.1.A.**
+Fires can be started wherever there is an accumulation of inflammable material. Warehouses are obviously the most promising targets but incendiary sabotage need not be confined to them alone.
 
-(1) Whenever possible, arrange to have the fire start after you have gone away. Use a candle and paper, combination, setting it as close as possible to the inflammable material you want to burn: From a sheet of paper, tear a strip three or four centimeters wide and wrap it around the base of the candle two or three times. Twist more sheets of paper into loose ropes and place them around the base of the candle. When the candle flame reaches the encircling strip, it will be ignited and in turn will ignite the surrounding paper. The size, heat, and duration of the resulting flame will depend on how much paper you use and how much of it you can cramp in a small space.
+**5.B.1.A.1.**
+Whenever possible, arrange to have the fire start after you have gone away. Use a candle and paper, combination, setting it as close as possible to the inflammable material you want to burn: From a sheet of paper, tear a strip three or four centimeters wide and wrap it around the base of the candle two or three times. Twist more sheets of paper into loose ropes and place them around the base of the candle. When the candle flame reaches the encircling strip, it will be ignited and in turn will ignite the surrounding paper. The size, heat, and duration of the resulting flame will depend on how much paper you use and how much of it you can cramp in a small space.
 
-(2) With a flame of this kind, do not attempt to ignite any but rather inflammable materials, such as cotton sacking. To light more resistant materials, use a candle plus tightly rolled or twisted paper which has been soaked in gasoline. To create a briefer but even hotter flame, put celluloid such as you might find in an old comb, into a nest of plain or saturated paper which is to be fired by a candle.
+**5.B.1.A.2.**
+With a flame of this kind, do not attempt to ignite any but rather inflammable materials, such as cotton sacking. To light more resistant materials, use a candle plus tightly rolled or twisted paper which has been soaked in gasoline. To create a briefer but even hotter flame, put celluloid such as you might find in an old comb, into a nest of plain or saturated paper which is to be fired by a candle.
 
-(3) To make another type of simple fuse, soak one end of a piece of string in grease. Rub a generous pinch of gunpowder over the inch of string where greasy string meets clean string. Then ignite the clean end of the string. It will burn slowly without a flame (in much the same way that a cigarette burns) until it reaches the grease and gunpowder; it will then flare up suddenly. The grease-treated string will then burn with a flame. The same effect may be achieved by using matches instead of the grease and gunpowder. Run the string over the match heads, taking care that the string is not pressed or knotted. They too will produce a sudden flame. The advantage of this type of fuse is that string burns at a set speed. You can time your fire by the length and thickness of the string you chose.
+**5.B.1.A.3.**
+To make another type of simple fuse, soak one end of a piece of string in grease. Rub a generous pinch of gunpowder over the inch of string where greasy string meets clean string. Then ignite the clean end of the string. It will burn slowly without a flame (in much the same way that a cigarette burns) until it reaches the grease and gunpowder; it will then flare up suddenly. The grease-treated string will then burn with a flame. The same effect may be achieved by using matches instead of the grease and gunpowder. Run the string over the match heads, taking care that the string is not pressed or knotted. They too will produce a sudden flame. The advantage of this type of fuse is that string burns at a set speed. You can time your fire by the length and thickness of the string you chose.
 
-(4) Use a fuse such as; the ones suggested above to start a fire in an office after hours. The destruction of records and other types of documents would be a serious handicap to the enemy.
+**5.B.1.A.4.**
+Use a fuse such as; the ones suggested above to start a fire in an office after hours. The destruction of records and other types of documents would be a serious handicap to the enemy.
 
-(5) In basements where waste is kept, janitors should accumulate oily and greasy waste. Such waste sometimes ignites spontaneously, but it can easily be lit with a cigarette or match. If you are a janitor on night duty, you can be the first to report the fire, but don’t report it too soon.
+**5.B.1.A.5.**
+In basements where waste is kept, janitors should accumulate oily and greasy waste. Such waste sometimes ignites spontaneously, but it can easily be lit with a cigarette or match. If you are a janitor on night duty, you can be the first to report the fire, but don’t report it too soon.
 
-(6) A clean factory is not susceptible to fire, but a dirty one is. Workers should be careless with refuse and janitors should be inefficient in cleaning. If enough dirt and trash can be accumulated an otherwise fireproof building will become inflammable.
+**5.B.1.A.6.**
+A clean factory is not susceptible to fire, but a dirty one is. Workers should be careless with refuse and janitors should be inefficient in cleaning. If enough dirt and trash can be accumulated an otherwise fireproof building will become inflammable.
 
-(7) Where illuminating gas is used in a room which is vacant at night, shut the windows tightly, turn on the gas, and leave a candle burning in the room, closing the door tightly behind you. After a time, the gas will explode, and a fire may or may not follow.
+**5.B.1.A.7.**
+Where illuminating gas is used in a room which is vacant at night, shut the windows tightly, turn on the gas, and leave a candle burning in the room, closing the door tightly behind you. After a time, the gas will explode, and a fire may or may not follow.
 
-(b) _Water and miscellaneous_
+### 5.B.1.B. Water and miscellaneous
 
-(1) Ruin warehouse stock by setting the automatic sprinkler system to work. You can do this by tapping the sprinkler heads sharply with a hammer or by holding a match under them.
+**5.B.1.A.1.**
+Ruin warehouse stock by setting the automatic sprinkler system to work. You can do this by tapping the sprinkler heads sharply with a hammer or by holding a match under them.
 
-(2) Forget to provide paper in toilets; put tightly rolled paper, hair, and other obstructions in the W. C. Saturate a sponge with a thick starch or sugar solution. Squeeze it tightly into a ball, wrap it with string, and dry. Remove the string when fully dried. The sponge will be in the form of a tight hard ball. Flush down a
+**5.B.1.A.2.**
+Forget to provide paper in toilets; put tightly rolled paper, hair, and other obstructions in the W. C. Saturate a sponge with a thick starch or sugar solution. Squeeze it tightly into a ball, wrap it with string, and dry. Remove the string when fully dried. The sponge will be in the form of a tight hard ball. Flush down a W. C. or otherwise introduce into a sewer line. The sponge will gradually expand to its normal size and plug the sewage system.
 
-W. C. or otherwise introduce into a sewer line. The sponge will gradually expand to its normal size and plug the sewage system.
+**5.B.1.A.3.** Put a coin beneath a bulb in a public building during the daytime, so that fuses will blow out when lights are turned on at night. The fuses themselves may be rendered ineffective by putting a coin behind them or loading them with heavy wire. Then a short-circuit may either start a fire, damage transformers, or blow out a central fuse which will interrupt distribution of electricity to a large area.
 
-(3) Put a coin beneath a bulb in a public building during the daytime, so that fuses will blow out when lights are turned on at night. The fuses themselves may be rendered ineffective by putting a coin behind them or loading them with heavy wire. Then a short-circuit may either start a fire, damage transformers, or blow out a central fuse which will interrupt distribution of electricity to a large area.
+**5.B.1.A.4.** Jam paper, bits of wood, hairpins, and anything else that will fit, into the locks of all unguarded entrances to public buildings.
 
-(4) Jam paper, bits of wood, hairpins, and anything else that will fit, into the locks of all unguarded entrances to public buildings.
+## 5.2. Industrial Production: Manufacturing
 
-## (2) _Industrial Production: Manufacturing_
+**5.2.A.**
+Tools
 
-(a) Tools
+**5.2.A.1.** 
+Let cutting tools grow dull. They will be inefficient, will slow down production, and may damage the materials and parts you use them on.
 
-(1) Let cutting tools grow dull. They will be inefficient, will slow down production, and may damage the materials and parts you use them on.
+**5.2.A.2.**
+Leave saws slightly twisted when you are not using them. After a while, they will break when used.
 
-(2) Leave saws slightly twisted when you are not using them. After a while, they will break when used.
+**5.2.A.3.** 
+Using a very rapid stroke will wear out a file before its time. So will dragging a file in slow strokes under heavy pressure. Exert pressure on the backward stroke as well as the forward stroke.
 
-(3) Using a very rapid stroke will wear out a file before its time. So will dragging a file in slow strokes under heavy pressure. Exert pressure on the backward stroke as well as the forward stroke.
+**5.2.A.4.** 
+Clean files by knocking them against the vise or the workpiece; they are easily broken this way.
 
-(4) Clean files by knocking them against the vise or the workpiece; they are easily broken this way.
+**5.2.A.5.** 
+Bits and drills will snap under heavy pressure.
 
-(5) Bits and drills will snap under heavy pressure.
+**5.2.A.6.** 
+You can put a press punch out of order by putting in it more material than it is adjusted for—two blanks instead of one, for example.
 
-(6) You can put a press punch out of order by putting in it more material than it is adjusted for—two blanks instead of one, for example.
+**5.2.A.7.** 
+Power-driven tools like pneumatic drills, riveters, and so on, are never efficient when dirty. Lubrication points and electric contacts can easily be fouled by normal accumulations of dirt or the insertion of foreign matter.
 
-(7) Power-driven tools like pneumatic drills, riveters, and so on, are never efficient when dirty. Lubrication points and electric contacts can easily be fouled by normal accumulations of dirt or the insertion of foreign matter.
+**5.2.B.**
+Oil and lubrication systems are not only vulnerable to easy sabotage, but are critical in every machine with moving parts. Sabotage of oil and lubrication will slow production or stop work entirely at strategic points in industrial processes.
 
-(b) Oil and lubrication systems are not only vulnerable to easy sabotage, but are critical in every machine with moving parts. Sabotage of oil and lubrication will slow production or stop work entirely at strategic points in industrial processes.
+**5.2.B.1.**
+Put metal dust or filings, fine sand, ground glass, emery dust (get it by pounding up an emery knife sharpener) and similar hard, gritty substances directly into lubrication systems. They will scour smooth surfaces, ruining pistons, cylinder walls, shafts, and bearings. They will overheat and stop motors which will need overhauling, new parts, and extensive repairs. Such materials, if they are used, should be introduced into lubrication systems past any filters which otherwise would strain them out.
 
-(1) Put metal dust or filings, fine sand, ground glass, emery dust (get it by pounding up an emery knife sharpener) and similar hard, gritty substances directly into lubrication systems. They will scour smooth surfaces, ruining pistons, cylinder walls, shafts, and bearings. They will overheat and stop motors which will need overhauling, new parts, and extensive repairs. Such materials, if they are used, should be introduced into lubrication systems past any filters which otherwise would strain them out.
+**5.2.B.2.**
+You can cause wear on any machine by uncovering a filter system, poking a pencil or any other sharp object through the filter mesh, then covering it up again. Or, if you can dispose of it quickly, simply remove the filter.
 
-(2) You can cause wear on any machine by uncovering a filter system, poking a pencil or any other sharp object through the filter mesh, then covering it up again. Or, if you can dispose of it quickly, simply remove the filter.
+**5.2.B.3.**
+If you cannot get at the lubrication system or filter directly, you may be able to lessen the effectiveness of oil by diluting it in storage. In this case, almost any liquid will do which will thin the oil. A small amount of sulphuric acid, varnish, water-glass, or linseed oil will be especially effective.
 
-(3) If you cannot get at the lubrication system or filter directly, you may be able to lessen the effectiveness of oil by diluting it in storage. In this case, almost any liquid will do which will thin the oil. A small amount of sulphuric acid, varnish, water-glass, or linseed oil will be especially effective.
+**5.2.B.4.**
+Using a thin oil where a heavy oil is prescribed will break down a machine or heat up a moving shaft so that it will “freeze” and stop.
 
-(4) Using a thin oil where a heavy oil is prescribed will break down a machine or heat up a moving shaft so that it will “freeze” and stop.
+**5.2.B.5.**
+Put any clogging substance into lubrication systems or, if it will float, into stored oil. Twisted combings of human hair, pieces of string, dead insects, and many other common objects will be effective in stopping or hindering the flow of oil through feed lines and filters.
 
-(5) Put any clogging substance into lubrication systems or, if it will float, into stored oil. Twisted combings of human hair, pieces of string, dead insects, and many other common objects will be effective in stopping or hindering the flow of oil through feed lines and filters.
-
-(6) Under some circumstances, you may be able to destroy oil outright rather than interfere with its effectiveness, by removing stop-plugs from lubricating systems or by puncturing the drums and cans in which it is stored.
+**5.2.B.6.**
+Under some circumstances, you may be able to destroy oil outright rather than interfere with its effectiveness, by removing stop-plugs from lubricating systems or by puncturing the drums and cans in which it is stored.
 
 (c) Cooling Systems (1.) A water cooling system can be put out of commission in a fairly short time, with considerable damage to an engine or motor, if you put into it several pinches of hard grain, such as rice or wheat. They will swell up and choke the circulation of water, and the cooling system will have to be torn down to remove the obstruction. Sawdust or hair may also be used to clog a water cooling system.
 
