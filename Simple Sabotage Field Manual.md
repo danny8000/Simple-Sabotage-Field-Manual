@@ -104,17 +104,17 @@ The amount of activity carried on by the saboteur will be governed not only by t
 **3.3.A.** 
 It should not be difficult to prepare leaflets and other media for the saboteur about the choice of weapons, time, and targets which will insure the saboteur against detection and retaliation. Among such suggestions might be the following:
 
-**3.3.A.1.** 
-Use materials which appear to be innocent. A knife or a nail file can be carried normally on your person; either is a multi-purpose instrument for creating damage. Matches, pebbles, hair, salt, nails, and dozens of other destructive agents can be carried or kept in your living quarters without exciting any suspicion whatever. If you are a worker in a particular trade or industry you can easily carry and keep such things as wrenches, hammers, emery paper, and the like.
+> **3.3.A.1.** 
+> Use materials which appear to be innocent. A knife or a nail file can be carried normally on your person; either is a multi-purpose instrument for creating damage. Matches, pebbles, hair, salt, nails, and dozens of other destructive agents can be carried or kept in your living quarters without exciting any suspicion whatever. If you are a worker in a particular trade or industry you can easily carry and keep such things as wrenches, hammers, emery paper, and the like.
 
-**3.3.A.2.** 
-Try to commit acts for which large numbers of people could be responsible. For instance, if you blow out the wiring in a factory at a central fire box, almost anyone could have done it. On-the-street sabotage after dark, such as you might be able to carry out against a military car or truck, is another example of an act for which it would be impossible to blame you.
+> **3.3.A.2.** 
+> Try to commit acts for which large numbers of people could be responsible. For instance, if you blow out the wiring in a factory at a central fire box, almost anyone could have done it. On-the-street sabotage after dark, such as you might be able to carry out against a military car or truck, is another example of an act for which it would be impossible to blame you.
 
-**3.3.A.3.** 
-Do not be afraid to commit acts for which you might be blamed directly, so long as you do so rarely, and as long as you have a plausible excuse: you dropped your wrench across an electric circuit because an air raid had kept you up the night before and you were half-dozing at work. Always be profuse in your apologies. Frequently you can “get away” with such acts under the cover of pretending stupidity, ignorance, over-caution, fear of being suspected of sabotage, or weakness and dullness due to undernourishment.
+> **3.3.A.3.** 
+> Do not be afraid to commit acts for which you might be blamed directly, so long as you do so rarely, and as long as you have a plausible excuse: you dropped your wrench across an electric circuit because an air raid had kept you up the night before and you were half-dozing at work. Always be profuse in your apologies. Frequently you can “get away” with such acts under the cover of pretending stupidity, ignorance, over-caution, fear of being suspected of sabotage, or weakness and dullness due to undernourishment.
 
-**3.3.A.4.** 
-After you have committed an act of easy sabotage, resist any temptation to wait around and see what happens. Loiterers arouse suspicion. Of course, there are circumstances when it would be suspicious for you to leave. If you commit sabotage on your job, you should naturally stay at your work.
+> **3.3.A.4.** 
+> After you have committed an act of easy sabotage, resist any temptation to wait around and see what happens. Loiterers arouse suspicion. Of course, there are circumstances when it would be suspicious for you to leave. If you commit sabotage on your job, you should naturally stay at your work.
 
 ## 4. TOOLS, TARGETS, AND TIMING
 
