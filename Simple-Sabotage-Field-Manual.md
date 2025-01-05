@@ -38,45 +38,38 @@ Director
 
 ## 1. INTRODUCTION
 
-### 1.a.
-The purpose of this paper is to characterize simple sabotage, to outline its possible effects, and to present suggestions for inciting and executing it.
+* **1.a.** The purpose of this paper is to characterize simple sabotage, to outline its possible effects, and to present suggestions for inciting and executing it.
 
-### 1.b.
-Sabotage varies from highly technical _coup de main_ acts that require detailed planning and the use of specially-trained operatives, to innumerable simple acts which the ordinary individual citizen-saboteur can perform. This paper is primarily concerned with the latter type. Simple sabotage does not require specially prepared tools or equipment; it is executed by an ordinary citizen who may or may not act individually and without the necessity for active connection with an organized group; and it is carried out in such a way as to involve a minimum danger of injury, detection, and reprisal.
+* **1.b.** Sabotage varies from highly technical _coup de main_ acts that require detailed planning and the use of specially-trained operatives, to innumerable simple acts which the ordinary individual citizen-saboteur can perform. This paper is primarily concerned with the latter type. Simple sabotage does not require specially prepared tools or equipment; it is executed by an ordinary citizen who may or may not act individually and without the necessity for active connection with an organized group; and it is carried out in such a way as to involve a minimum danger of injury, detection, and reprisal.
 
-### 1.c.
-Where destruction is involved, the weapons of the citizen-saboteur are salt, nails, candles, pebbles, thread, or any other materials he might normally be expected to possess as a householder or as a worker in his particular occupation. His arsenal is the kitchen shelf, the trash pile, his own usual kit of tools and supplies. The targets of his sabotage are usually objects to which he has normal and inconspicuous access in everyday life.
+* **1.c.** Where destruction is involved, the weapons of the citizen-saboteur are salt, nails, candles, pebbles, thread, or any other materials he might normally be expected to possess as a householder or as a worker in his particular occupation. His arsenal is the kitchen shelf, the trash pile, his own usual kit of tools and supplies. The targets of his sabotage are usually objects to which he has normal and inconspicuous access in everyday life.
 
-### 1.d. 
-A second type of simple sabotage requires no destructive tools whatsoever and produces physical damage, if any, by highly indirect means. It is based on universal opportunities to make faulty decisions, to adopt a noncooperative attitude, and to induce others to follow suit. Making a faulty decision may be simply a matter of placing tools in one spot instead of another. A non-cooperative attitude may involve nothing more than creating an unpleasant situation among one’s fellow workers, engaging in bickerings, or displaying surliness and stupidity.
+* **1.d.** A second type of simple sabotage requires no destructive tools whatsoever and produces physical damage, if any, by highly indirect means. It is based on universal opportunities to make faulty decisions, to adopt a noncooperative attitude, and to induce others to follow suit. Making a faulty decision may be simply a matter of placing tools in one spot instead of another. A non-cooperative attitude may involve nothing more than creating an unpleasant situation among one’s fellow workers, engaging in bickerings, or displaying surliness and stupidity.
 
-### 1.d.
-This type of activity, sometimes referred to as the “human element,” is frequently responsible for accidents, delays, and general obstruction even under normal conditions. The potential saboteur should discover what types of faulty decisions and the operations are _normally_ found in this kind of work and should then devise his sabotage so as to enlarge that “margin for error.”
+* **1.e.** This type of activity, sometimes referred to as the “human element,” is frequently responsible for accidents, delays, and general obstruction even under normal conditions. The potential saboteur should discover what types of faulty decisions and the operations are _normally_ found in this kind of work and should then devise his sabotage so as to enlarge that “margin for error.”
 
 ## 2. POSSIBLE EFFECTS
 
-### 2.a.
-Acts of simple sabotage are occurring throughout Europe. An effort should be made to add to their efficiency, lessen their detectability, and increase their number. Acts of simple sabotage, multiplied by thousands of citizen-saboteurs, can be an effective weapon against the enemy. Slashing tires, draining fuel tanks, starting fires, starting arguments, acting stupidly, short-circuiting electric systems, abrading machine parts will waste materials, manpower, and time. Occurring on a wide scale, simple sabotage will be a constant and tangible drag on the war effort of the enemy.
+* **2.a.** Acts of simple sabotage are occurring throughout Europe. An effort should be made to add to their efficiency, lessen their detectability, and increase their number. Acts of simple sabotage, multiplied by thousands of citizen-saboteurs, can be an effective weapon against the enemy. Slashing tires, draining fuel tanks, starting fires, starting arguments, acting stupidly, short-circuiting electric systems, abrading machine parts will waste materials, manpower, and time. Occurring on a wide scale, simple sabotage will be a constant and tangible drag on the war effort of the enemy.
 
-**2.B.**
-Simple sabotage may also have secondary results of more or less value. Widespread practice of simple sabotage will harass and demoralize enemy administrators and police. Further, success may embolden the citizen-saboteur eventually to find colleagues who can assist him in sabotage of greater dimensions. Finally, the very practice of simple sabotage by natives in enemy or occupied territory may make these individuals identify themselves actively with the United Nations war effort, and encourage them to assist openly in periods of Allied invasion and occupation.
+* **2.B.** Simple sabotage may also have secondary results of more or less value. Widespread practice of simple sabotage will harass and demoralize enemy administrators and police. Further, success may embolden the citizen-saboteur eventually to find colleagues who can assist him in sabotage of greater dimensions. Finally, the very practice of simple sabotage by natives in enemy or occupied territory may make these individuals identify themselves actively with the United Nations war effort, and encourage them to assist openly in periods of Allied invasion and occupation.
 
 ## 3. MOTIVATING THE SABOTEUR
 
-* 3.a. To incite the citizen to the active practice of simple sabotage and to keep him practicing that sabotage over sustained periods is a special problem.
+* **3.a.** To incite the citizen to the active practice of simple sabotage and to keep him practicing that sabotage over sustained periods is a special problem.
 
-* 3.b. Simple sabotage is often an act which the citizen performs according to his own initiative and inclination. Acts of destruction do not bring him any personal gain and may be completely foreign to his habitually conservationist attitude toward materials and tools. Purposeful stupidity is contrary to human nature. He frequently needs pressure, stimulation or assurance, and information and suggestions regarding feasible methods of simple sabotage.
+* **3.b.** Simple sabotage is often an act which the citizen performs according to his own initiative and inclination. Acts of destruction do not bring him any personal gain and may be completely foreign to his habitually conservationist attitude toward materials and tools. Purposeful stupidity is contrary to human nature. He frequently needs pressure, stimulation or assurance, and information and suggestions regarding feasible methods of simple sabotage.
 
-### 3.1. Personal Motives
+### 3(1). Personal Motives
 
-**3.1.A.**
+**3(1)a.**
 The ordinary citizen very probably has no immediate personal motive for committing simple sabotage. Instead, he must be made to anticipate indirect personal gain, such as might come with enemy evacuation or destruction of the ruling government group. Gains should be stated as specifically as possible for the area addressed: simple sabotage will hasten the day when Commissioner X and his deputies Y and Z will be thrown out, when particularly obnoxious decrees and restrictions will be abolished, when food will arrive, and so on. Abstract verbalizations about personal liberty, freedom of the press, and so on, will not be convincing in most parts of the world. In many areas they will not even be comprehensible.
 
-**3.1.B.**
+**3(1)b.**
 Since the effect of his own acts is limited, the saboteur may become discouraged unless he feels that he is a member of a large, though unseen, group of saboteurs operating against the enemy or the government of his own country and elsewhere. This can be conveyed indirectly: suggestions which he reads and hears can include observations that a particular technique has been successful in this or that district. Even if the technique is not applicable to his surroundings, another’s success will encourage him to attempt similar acts. It also can be conveyed directly: statements praising the effectiveness of simple sabotage can be contrived which will be published by white radio, freedom stations, and the subversive press. Estimates of the proportion of the population engaged in sabotage can be disseminated. Instances of successful sabotage already are being broadcast by white radio and freedom stations, and this should be continued and expanded where compatible with security.
 
-**3.1.C.**
-More important than (3.1.A.) or (3.1.B.) would be to create a situation in which the citizen-saboteur acquires a sense of responsibility and begins to educate others in simple sabotage.
+**3(1)c.**
+More important than (3(1)a.) or (3(1)b.) would be to create a situation in which the citizen-saboteur acquires a sense of responsibility and begins to educate others in simple sabotage.
 
 ### 3.2. Encouraging Destructiveness
 
