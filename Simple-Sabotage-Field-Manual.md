@@ -1,3 +1,7 @@
+<style type="text/css">
+    ol { list-style-type: lower-alpha; }
+</style>
+
 # Simple Sabotage Field Manual
 
 ## Office of Strategic Services
@@ -638,24 +642,24 @@ Forget tools so that you will have to go back after them.
 
 ## (12) General Devices for Lowering Morale and Creating Confusion
 
-(a) Give lengthy and incomprehensible explanations when questioned.
+1. Give lengthy and incomprehensible explanations when questioned.
 
-(b) Report imaginary spies or danger to the Gestapo or police.
+1. Report imaginary spies or danger to the Gestapo or police.
 
-(c) Act stupid.
+1. Act stupid.
 
-(d) Be as irritable and quarrelsome as possible without getting yourself into trouble.
+1. Be as irritable and quarrelsome as possible without getting yourself into trouble.
 
-(e) Misunderstand all sorts of regulations concerning such matters as rationing, transportation, traffic regulations.
+1. Misunderstand all sorts of regulations concerning such matters as rationing, transportation, traffic regulations.
 
-(f) Complain against ersatz materials.
+1. Complain against ersatz materials.
 
-(g) In public treat axis nationals or quislings coldly.
+1. In public treat axis nationals or quislings coldly.
 
-(h) Stop all conversation when axis nationals or quislings enter a cafe.
+1. Stop all conversation when axis nationals or quislings enter a cafe.
 
-(i) Cry and sob hysterically at every occasion, especially when confronted by government clerks.
+1. Cry and sob hysterically at every occasion, especially when confronted by government clerks.
 
-(j) Boycott all movies, entertainments, concerts, newspapers which are in any way connected with the quisling authorities.
+1. Boycott all movies, entertainments, concerts, newspapers which are in any way connected with the quisling authorities.
 
-(k) Do not cooperate in salvage schemes.
+1. Do not cooperate in salvage schemes.
